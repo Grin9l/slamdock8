@@ -7,7 +7,7 @@
 git clone https://github.com/SeRGei93/slamdock8
 ```
 
-удаляем папку .git из папки docker
+удаляем папку .git из папки docker,
 git будет только в папке с проектом
 
 ```
