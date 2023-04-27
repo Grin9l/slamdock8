@@ -4,7 +4,7 @@
 клонируем туда репу.
 
 ```
-git clone https://github.com/SeRGei93/slamdock8
+git clone https://github.com/Grin9l/slamdock8
 ```
 
 удаляем папку .git из папки docker,
